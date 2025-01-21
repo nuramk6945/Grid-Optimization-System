@@ -9,3 +9,11 @@ U
 %contracts/power-plant-management.clar,d/8/d82f42a0b0b21270e30c67d9997ee68b213b8e95
 T
 $tests/power-plant-management.test.ts,8/3/83def334ea0d28ea6894b7ba1f290dea6835ead4
+M
+contracts/load-balancing.clar,9/7/973a69f92c2f1147dcb80f95776f53c5897b0e9f
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+O
+tests/energy-source-nft.test.ts,b/4/b4bd4baff6419f73d280b070c489e82cb16e45bc
+P
+ contracts/energy-source-nft.clar,b/2/b2dcdf510b794b140f5b7db456ab7372dde78e97
