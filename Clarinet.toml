@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/energy-transfer-agreement.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.power-plant-management]
+path = 'contracts/power-plant-management.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
